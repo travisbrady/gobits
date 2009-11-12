@@ -1,4 +1,9 @@
 /* Connect to redis just to play with Go a little bit
+ * You'd need to have Redis running on localhost on port 6379
+ * You'd also need to have a computer that can run programs
+ * You should probably also get food and shelter too.
+ * Actually, just check this out:
+ * http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 */
 package main
 
